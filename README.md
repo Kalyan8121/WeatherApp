@@ -27,5 +27,5 @@ Bharat Intern Virtual Internship: Provided the opportunity for developing this p
 
 **OpenWeather API:** Used for fetching real-time weather data.
 
-Here is the Preview[Click Here](https://github.com/Kalyan8121/WeatherApp/blob/b63f03e24758d5aa0c6e46efb8b9848024fbffd3/Images/preview/Screenshot.png)
+Here is the Preview [Click Here](https://github.com/Kalyan8121/WeatherApp/blob/b63f03e24758d5aa0c6e46efb8b9848024fbffd3/Images/preview/Screenshot.png)
 
