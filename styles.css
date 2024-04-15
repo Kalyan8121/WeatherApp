@@ -13,6 +13,7 @@ body {
   align-items: center;
   justify-content: center;
   background-image:url(Images/bg-img.jpg); 
+  background-repeat: no-repeat;
   
 }
 .mainContainer {
