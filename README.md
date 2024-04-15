@@ -21,8 +21,10 @@ Clone the repository to your local machine.
 Open the index.html file in a web browser.
 Enter the desired location in the input field.
 Press the submit button to fetch and display the weather information.
-Credits
-Bharat Intern Virtual Internship: Provided the opportunity and guidance for developing this project.
-OpenWeather API: Used for fetching real-time weather data.
+
+**Credits**
+Bharat Intern Virtual Internship: Provided the opportunity for developing this project.
+
+**OpenWeather API:** Used for fetching real-time weather data.
 
 
